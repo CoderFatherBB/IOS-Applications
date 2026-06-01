@@ -1,61 +1,38 @@
 <div align="center">
-  <h1 align="center">IOS-Applications</h1>
+  <h1>iOS Applications</h1>
+  <p><strong>A collection of iOS app experiments, including Ganpati Arti apps and App Intent trials.</strong></p>
   <p align="center">
-    <strong>iOS application development projects.</strong>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/github/license/CoderFatherBB/IOS-Applications?style=flat-square&color=007ec6" alt="License">
-    <img src="https://img.shields.io/github/repo-size/CoderFatherBB/IOS-Applications?style=flat-square&color=007ec6" alt="Repo Size">
-    <img src="https://img.shields.io/github/last-commit/CoderFatherBB/IOS-Applications?style=flat-square&color=007ec6" alt="Last Commit">
-  </p>
+  <img src="https://img.shields.io/github/repo-size/CoderFatherBB/IOS-Applications?style=flat-square&color=007ec6" alt="Repo Size">
+  <img src="https://img.shields.io/github/last-commit/CoderFatherBB/IOS-Applications?style=flat-square&color=007ec6" alt="Last Commit">
+</p>
 </div>
 
----
+## About
 
-## 📖 Overview
+This repository groups iOS application projects and experiments. It currently contains devotional app work and an App Intents exploration project.
 
-Welcome to the **IOS-Applications** repository. iOS application development projects.
+## Repository Map
+
+- `Ganpati Arti/`
+- `Society Ganpati Arti/`
+- `Intent_Try/`
 
 
+## Getting Started
 
----
+Clone the repository:
 
-## 🚀 Getting Started
+```bash
+git clone https://github.com/CoderFatherBB/IOS-Applications.git
+cd IOS-Applications
+```
 
-### Prerequisites
+Open the folder or notebook you want to explore. Most directories are self-contained, so start from the local `README.md`, source file, notebook, or project folder for that topic.
 
-Make sure you have the necessary environment setup to run or build the project. Depending on the repository's technology stack, you may need:
-- Standard language compilers/interpreters (e.g., Python, C++, Java).
-- Required frameworks and libraries as per the codebase.
 
-### Installation & Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/CoderFatherBB/IOS-Applications.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd IOS-Applications
-   ```
-3. Run or execute the relevant files as per the language standards.
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/CoderFatherBB/IOS-Applications/issues).
-
----
-
-## 👤 Author
+## Author
 
 **Bhavin Baldota**
 
 - LinkedIn: [Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234/)
 - GitHub: [@CoderFatherBB](https://github.com/CoderFatherBB)
-
----
-<div align="center">
-  <sub>Made with ❤️ by Bhavin Baldota</sub>
-</div>
